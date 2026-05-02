@@ -6,7 +6,7 @@
 
 ## En el cmd abrir la ubicacion del archivo descargado
 
-y segui con los siguientes pasos
+y seguir con los siguientes pasos
 
 ## Instalación
 
